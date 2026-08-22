@@ -4,10 +4,6 @@
 
 <br>
 
-<style>
-  border-style: solid;
-  border-color: red;
-</style>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DaviReis4554&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=DaviReis4554&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DaviReis4554&layout=compact&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=DaviReis4554&layout=compact&langs_count=4&theme=dark)
